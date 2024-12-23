@@ -1,0 +1,24 @@
+
+// All steps 
+/**
+ * 1. go to firebase website > more > docs > build > authentication > web > getStart / google 
+ * 
+ *  copy inisilige confiq and peast 
+ * 
+ * export default initialize-app
+ * 
+ *2. import getAuth
+
+ 3.import authProvider
+ 4 . handalclick inside singInWithPopup(auth , provider)
+ 5 . then ()
+ 6.catch (error)
+
+ *  go to firebase website > get Start > and create a new project > build > authentication > sing in method 
+ * 
+ * 
+ * / 
+           <!-- MORE AUTH STEPS  -->
+  /*
+  1. active auth provider ( create app , provide redirect url , client id , client secret )
+  */         
